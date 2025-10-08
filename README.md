@@ -1,6 +1,9 @@
-# finance_ai
+## NOTICE
 
-A new Flutter project.
+Programming was done in Android Studio using Kotlin and in Microsoft Visual Studio using C#
+This GitHub repository contains the source code that is used to build an Visual Studio Code and Android Studio. To use this project, download/clone the entire project to your local computer                                                        
+
+## Welcome
 
 ## Getting Started
 
@@ -14,3 +17,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Documentation
+
+Full documentation of our team [Documentation]()    
+
+## Conclusion
+Creators: Askaruly Aldiyar
+License: MIT License
